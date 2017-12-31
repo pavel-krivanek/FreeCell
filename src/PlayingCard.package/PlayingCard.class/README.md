@@ -1,0 +1,3 @@
+This class assembles card images from their parts.  The images are broken down so that the image data is very compact, and the code is written to display properly at all color depths.  The method imageData may be removed after initialization to save space, but must be re-built prior to fileOut if you wish to retain the images.
+
+To use in morphic, one can simply put these forms into ImageMorphs (see example in buildImage).  However it should be possible to define a subclass of ImageMorph that simply creates playingCard instances on the fly whenever the image form is needed.  This would avoid storing all the images.

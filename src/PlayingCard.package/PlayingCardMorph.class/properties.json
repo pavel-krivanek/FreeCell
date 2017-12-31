@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ImageMorph",
+	"category" : "PlayingCard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cardNumber",
+		"suitNumber"
+	],
+	"name" : "PlayingCardMorph",
+	"type" : "normal"
+}

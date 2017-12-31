@@ -1,0 +1,4 @@
+accessing
+topCard
+
+	^self firstSubmorph

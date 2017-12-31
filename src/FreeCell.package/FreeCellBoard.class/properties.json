@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AlignmentMorph",
+	"category" : "FreeCell",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cardDeck",
+		"lastCardDeck",
+		"freeCells",
+		"homeCells",
+		"stacks",
+		"target",
+		"actionSelector",
+		"hardness"
+	],
+	"name" : "FreeCellBoard",
+	"type" : "normal"
+}

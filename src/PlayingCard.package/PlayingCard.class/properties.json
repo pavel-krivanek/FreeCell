@@ -1,0 +1,30 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PlayingCard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ASpadesLoc",
+		"CachedBlank",
+		"CachedDepth",
+		"CardSize",
+		"FaceForms",
+		"FaceLoc",
+		"FaceSuitLoc",
+		"MidSpotLocs",
+		"NumberForms",
+		"NumberLoc",
+		"SuitForms",
+		"SuitLoc",
+		"TopSpotLocs"
+	],
+	"instvars" : [
+		"cardNo",
+		"suit",
+		"suitNo",
+		"cardForm"
+	],
+	"name" : "PlayingCard",
+	"type" : "normal"
+}

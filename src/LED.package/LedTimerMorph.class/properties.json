@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "LedMorph",
+	"category" : "LED",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"counting",
+		"startSeconds"
+	],
+	"name" : "LedTimerMorph",
+	"type" : "normal"
+}

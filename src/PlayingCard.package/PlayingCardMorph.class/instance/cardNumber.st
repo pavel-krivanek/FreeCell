@@ -1,0 +1,3 @@
+access
+cardNumber
+	^cardNumber

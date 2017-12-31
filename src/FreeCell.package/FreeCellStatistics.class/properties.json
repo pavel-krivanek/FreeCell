@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "FreeCell",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sessionWins",
+		"sessionLosses",
+		"totalWins",
+		"totalLosses",
+		"streakWins",
+		"streakLosses",
+		"winsWithReplay",
+		"lossesWithReplay",
+		"lastGameWon",
+		"lastGameLost",
+		"currentCount",
+		"currentType",
+		"window",
+		"statsMorph"
+	],
+	"name" : "FreeCellStatistics",
+	"type" : "normal"
+}

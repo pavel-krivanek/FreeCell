@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Morph",
+	"category" : "LED",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"HSegmentOrigins",
+		"HSegments",
+		"VSegmentOrigins",
+		"VSegments"
+	],
+	"instvars" : [
+		"digit",
+		"highlighted"
+	],
+	"name" : "LedDigitMorph",
+	"type" : "normal"
+}

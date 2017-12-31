@@ -1,0 +1,1 @@
+This class displays images from the PlayingCard class as morphs.  It attempts to be space-efficient by only producing its images on demand.

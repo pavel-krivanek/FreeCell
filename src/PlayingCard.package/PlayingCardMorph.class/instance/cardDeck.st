@@ -1,0 +1,4 @@
+access
+cardDeck
+
+	^self owner

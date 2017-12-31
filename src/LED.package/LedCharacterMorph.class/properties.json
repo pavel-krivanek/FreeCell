@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Morph",
+	"category" : "LED",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"BSegments",
+		"CHSegmentOrigins",
+		"CHSegments",
+		"CVSegmentOrigins",
+		"CVSegments",
+		"DSegments",
+		"TSegments"
+	],
+	"instvars" : [
+		"char",
+		"highlighted"
+	],
+	"name" : "LedCharacterMorph",
+	"type" : "normal"
+}

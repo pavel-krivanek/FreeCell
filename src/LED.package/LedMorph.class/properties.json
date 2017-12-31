@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "StephaneDucasse 8/20/2009 10:49",
+	"super" : "Morph",
+	"category" : "LED",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"digits",
+		"chars",
+		"value",
+		"flashing",
+		"flash",
+		"string",
+		"scroller",
+		"scrollLoop"
+	],
+	"name" : "LedMorph",
+	"type" : "normal"
+}

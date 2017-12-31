@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "StephaneDucasse 2/8/2015 12:31",
+	"super" : "AlignmentMorph",
+	"category" : "PlayingCard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"layout",
+		"stackingPolicy",
+		"stackingOrder",
+		"emptyDropPolicy",
+		"target",
+		"acceptCardSelector",
+		"cardDroppedSelector",
+		"cardDoubleClickSelector",
+		"cardDraggedSelector",
+		"seed"
+	],
+	"name" : "PlayingCardDeck",
+	"type" : "normal"
+}

@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "AlignmentMorph",
+	"category" : "FreeCell",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Statistics"
+	],
+	"instvars" : [
+		"board",
+		"cardsRemainingDisplay",
+		"elapsedTimeDisplay",
+		"gameNumberDisplay",
+		"lastGameLost",
+		"state",
+		"autoMoveRecursionCount",
+		"myFillStyle"
+	],
+	"name" : "FreeCell",
+	"type" : "normal"
+}
