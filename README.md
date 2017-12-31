@@ -20,8 +20,6 @@ Metacello new
 
 ### How to run
 
-Copy maps into the image directory and then evaluate:
-
 ```
 FreeCell open.
 ```
