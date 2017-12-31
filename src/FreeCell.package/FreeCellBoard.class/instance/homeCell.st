@@ -6,6 +6,8 @@ homeCell
 	 stackingOrder: #ascending;
 	 emptyDropPolicy: #inOrder;
 	 target: self;
+	 hResizing: #rigid;
+	 vResizing: #rigid;
 	 cardDroppedSelector: #cardMovedHome;
 	 cardDraggedSelector: #dragCard:fromHome:;
 	 acceptCardSelector: #acceptSingleCard:on:.

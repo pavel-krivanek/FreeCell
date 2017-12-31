@@ -4,6 +4,7 @@ stack
 	 layout: #stagger;
 	 listDirection: #topToBottom;
 	 enableDragNDrop;
+	 hResizing: #rigid;
 	 stackingPolicy: #altStraight;
 	 stackingOrder: #descending;
 	 emptyDropPolicy: #any;
