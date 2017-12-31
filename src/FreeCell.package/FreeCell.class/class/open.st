@@ -1,4 +1,6 @@
 class initialization
 open
 
-	self new openInWindow
+	<example>
+
+	self new openInWindowLabeled: 'FreeCell'

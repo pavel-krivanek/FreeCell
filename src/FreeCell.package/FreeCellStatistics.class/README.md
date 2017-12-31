@@ -1,0 +1,1 @@
+Statistical information about FreeCell games
