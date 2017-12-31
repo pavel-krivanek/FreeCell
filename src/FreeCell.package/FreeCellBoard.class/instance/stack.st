@@ -12,4 +12,5 @@ stack
 	 cardDroppedSelector: #cardMoved;
 	 cardDraggedSelector: #dragCard:fromStack:;
 	 acceptCardSelector: #acceptCard:onStack:;
-	 cardDoubleClickSelector: #doubleClickInStack:OnCard:
+	 cardDoubleClickSelector: #doubleClickInStack:OnCard:;
+	 width: PlayingCardMorph width

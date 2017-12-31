@@ -9,7 +9,7 @@ set the hardness of the next game by typing ''H 30''.
 Above 100 is very hard.  Zero is standard game.
 Current hardness is: ', hh printString.
 		"Let the user cancel."
-		ss isEmpty ifTrue: [^ nil].
+		ss isEmptyOrNil ifTrue: [^ nil].
 		ss := ss withoutQuoting.
 		ss first asLowercase == $h ifTrue: ["Set the hardness"
 			[ii := ss numericSuffix] on: Error do: [ii := 0].

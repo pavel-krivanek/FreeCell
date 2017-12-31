@@ -11,7 +11,7 @@ pickGame: aSeedOrNil
 			addAllMorphs: sorted.
 		self resetBoard.
 		self world doOneCycle.
-		Utilities informUser: 'Game #1 is a special case
+		UIManager default informUser: 'Game #1 is a special case
 for performance analysis' during:
 			[msg := self world firstSubmorph.
 			msg align: msg topRight with: owner bottomRight.

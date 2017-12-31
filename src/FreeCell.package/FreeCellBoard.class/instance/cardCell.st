@@ -4,6 +4,7 @@ cardCell
 	^PlayingCardDeck new
 		layout: #pile; 
 		listDirection: #topToBottom;
+		hResizing: #shrinkWrap;
 		enableDragNDrop;
 		color: Color transparent;
 		borderColor: (Color gray alpha: 0.5);
